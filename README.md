@@ -2,16 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Aditya Nair`
+- **CCID:** `anair5`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+I used ChatGPT to understand the steps, and followed Lab Demo done in class.
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A
